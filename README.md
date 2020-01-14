@@ -9,6 +9,7 @@ reason for doing this is that I felt that something went wrong, but dunno what e
 
 I thing this is a lifetime 'work in progress' and I am curious to discover new knowledge and perspectives. This repo is German / English mixed depending on the source of knowledge.
 
+*hint*: Click the link behind 'review & comments:' to get more detailed informations.
 
 # Make Time
  * subtitle: How to Focus on What Matters Every Day
