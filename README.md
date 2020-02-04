@@ -12,9 +12,19 @@ I thing this is a lifetime 'work in progress' and I am curious to discover new k
 *hint*: Click the link behind 'review & comments:' to get more detailed informations.
 
 # Make Time
- * subtitle: How to Focus on What Matters Every Day
- * Platform: audible.de
- * Author: Jake Knapp, John Zeratsky
- * length: 5h
- * url: http://a.co/ehYqwSJ
- * review & comments: [Make Time](./audible/make_time.md "Make Time (Audible)")
+  * Subtitle: How to Focus on What Matters Every Day
+  * Language: English
+  * Platform: audible.de
+  * Author: Jake Knapp, John Zeratsky
+  * Length: 5h
+  * Url: http://a.co/ehYqwSJ
+  * Review & Comments: [Make Time](./audible/make_time.md "Make Time (English)")
+
+# Neustart im Kopf
+  * Subtitle: Wie sich unser Gehirn selbst repariert
+  * Language: German
+  * Plaform: Audible.de
+  * Author: Norman Doidge
+  * Length: 13h
+  * Url:
+  * Review & Comments: [Neustart im Kopf](./audible/neustart_im_kopf.md "Neustart im Kopf (German)")
